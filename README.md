@@ -2,7 +2,7 @@
 **This is a Todo App in which you can add your Todo List to remember everything!  :)**
 
 # **Npm** 
-* **For Pakage Install**
+* **For Pakage installation do**
   * *npm i resheph-todo-app*
-* **Npx command for APP is**
+* **Npx command for this APP is**
   * *npx Resheph-list*
